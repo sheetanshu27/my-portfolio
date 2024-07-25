@@ -8,7 +8,7 @@ export const Bio = {
     "I am a software engineer who is passionate about making open-source more accessible, creating software to elevate people, and building community. Some technologies I enjoy working with includes ReactJS and NodeJS. I love to learn new things every day and I am a data structure lover and web developing punk.",
   github: "https://github.com/sheetanshu27",
   resume:
-    "https://drive.google.com/file/d/1lr5R38lN9vYYgSM_fCTeU1A6jxNr6iG0/view?usp=sharing",
+    "https://drive.google.com/file/d/1VNZA-Ps2234_pSbiMek3BqzK9s_tKrny/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sheetanshu-porwal-130583249/",
 };
 
@@ -308,7 +308,7 @@ export const projects = [
   {
     id: 9,
     title: "Portfolio",
-    date: "Jan 2024",
+    date: "March 2024",
     description:
       "Build a fully - responsive portfolio website using react.js, CSS and basic javascript.",
     image:
@@ -353,7 +353,7 @@ export const projects = [
   {
     id: 1,
     title: "Online Treasure Hunt Website",
-    date: "Apr 2024",
+    date: "Apr 2023",
     description:
       "This website is an Online Treasure Hunt game developed with the help of ReactJS and various Encodings,Steganographic tools. | Developedusing ASCII, Base 64, Unicode encryptions and many more.",
     image:
